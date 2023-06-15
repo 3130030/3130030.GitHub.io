@@ -2,7 +2,7 @@
 
 <br/><br/>
 <h1 id="cover-heading">
-  服务说明文档
+  平台对接说明
 </h1>
 
 <font color="#ffffff">小鱼儿</font>
